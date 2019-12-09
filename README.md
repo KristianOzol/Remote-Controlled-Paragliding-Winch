@@ -7,6 +7,7 @@ Conceptually the project consists of two entities both controlled by Arduino boa
 I was responsible for developing the software for the two microcontrollers, written in C/C++ using the Arduino IDE, while the hardware and electrical engineering aspects were primarily handled by the project manager.
 
 --Hardware Components--
+
 The Handle:
 Arduino Pro Mini board
 Adafruit SSD1306 128X32 OLED LCD display
